@@ -1,0 +1,17 @@
+{
+    "title": "Test networks",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=d_0LYO7EByk",
+      "tool": "http://ethdocs.org/en/latest/network/test-networks.html",
+      "info": "./solidity-types.md"
+    }],
+      "needs": [
+        "https://github.com/ffakk/workshop-order-of-evaluation-of-expressions/workshop.json"
+    ],
+    "unlocks": [
+      ""
+    ]
+  }
